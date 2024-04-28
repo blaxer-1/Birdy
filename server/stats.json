@@ -1,0 +1,14 @@
+{
+   "userCount":{
+      "value":100,
+      "label":"Nombre d'utilisateurs"
+   },
+   "nbMessagesSent":{
+      "value":2589,
+      "label":"Nombre de messages envoyés"
+   },
+   "creationDate":{
+      "value":"15/02/2023 à 15h00",
+      "label":"Date de création"
+   }
+}
